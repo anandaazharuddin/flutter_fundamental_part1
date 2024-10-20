@@ -1,11 +1,5 @@
-import 'package:flutter/material.dart';
-// Import the input_widget.dart file
-import 'package:hello_world/basic_widgets/input_widget.dart';  // Ubah sesuai dengan path file input_widget Anda
-
 import 'dart:async';
 import 'package:flutter/material.dart';
-
-void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
